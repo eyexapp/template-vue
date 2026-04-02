@@ -1,0 +1,15 @@
+{
+  "app": {
+    "title": "Vue Şablon",
+    "home": "Ana Sayfa"
+  },
+  "common": {
+    "loading": "Yükleniyor…",
+    "error": "Bir şeyler ters gitti",
+    "retry": "Tekrar Dene"
+  },
+  "home": {
+    "heading": "Hoş Geldiniz",
+    "description": "Uygulamanızı oluşturmaya başlayın."
+  }
+}

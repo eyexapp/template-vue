@@ -1,0 +1,5 @@
+dist
+coverage
+auto-imports.d.ts
+components.d.ts
+package-lock.json

@@ -1,0 +1,43 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+
+# Generated types (auto-import)
+auto-imports.d.ts
+components.d.ts
+
+# Cache
+*.tsbuildinfo
+.vite
+
+# Environment
+*.local
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db

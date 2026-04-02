@@ -1,0 +1,15 @@
+{
+  "app": {
+    "title": "Vue Template",
+    "home": "Home"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "retry": "Retry"
+  },
+  "home": {
+    "heading": "Welcome",
+    "description": "Start building your application."
+  }
+}
